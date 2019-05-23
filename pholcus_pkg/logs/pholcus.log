@@ -1,0 +1,714 @@
+2019/05/24 05:24:48 [I]  *     不使用代理IP
+
+2019/05/24 05:24:48 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2019/05/24 05:24:48 [I]  *     采集引擎池容量为 1
+
+2019/05/24 05:24:48 [I]  *     并发协程最多 20 个
+
+2019/05/24 05:24:48 [I]  *     默认随机停顿 150~600 毫秒
+
+2019/05/24 05:24:48 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2019/05/24 05:24:48 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:24:48 [D]  *     Start: https://www.36mh.com/list_1/
+2019/05/24 05:24:48 [I]  *     Success: https://www.36mh.com/list_1/
+
+2019/05/24 05:24:48 [P]  *     [任务小计：36漫画 | KEYIN：]   无采集结果，用时 307.502574ms！
+
+2019/05/24 05:24:48 [I]  * 
+2019/05/24 05:24:48 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:24:48 [I]  * 
+2019/05/24 05:24:48 [P]  *                            —— 本次无采集结果，实爬【成功 1 URL + 失败 0 URL = 合计 1 URL】，耗时【307.530205ms】 ——
+2019/05/24 05:24:48 [I]  * 
+2019/05/24 05:24:48 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:27:03 [I]  *     不使用代理IP
+
+2019/05/24 05:27:03 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2019/05/24 05:27:03 [I]  *     采集引擎池容量为 1
+
+2019/05/24 05:27:03 [I]  *     并发协程最多 20 个
+
+2019/05/24 05:27:03 [I]  *     默认随机停顿 150~600 毫秒
+
+2019/05/24 05:27:03 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2019/05/24 05:27:03 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:27:03 [D]  *     Start: https://www.36mh.com/list_1/
+2019/05/24 05:27:04 [I]  *     Success: https://www.36mh.com/list_1/
+
+2019/05/24 05:27:04 [P]  *     [任务小计：36漫画 | KEYIN：]   无采集结果，用时 530.729255ms！
+
+2019/05/24 05:27:04 [I]  * 
+2019/05/24 05:27:04 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:27:04 [I]  * 
+2019/05/24 05:27:04 [P]  *                            —— 本次无采集结果，实爬【成功 1 URL + 失败 0 URL = 合计 1 URL】，耗时【530.75636ms】 ——
+2019/05/24 05:27:04 [I]  * 
+2019/05/24 05:27:04 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:46:22 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2019/05/24 05:46:32 [I]  *     不使用代理IP
+
+2019/05/24 05:46:32 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2019/05/24 05:46:32 [I]  *     采集引擎池容量为 1
+
+2019/05/24 05:46:32 [I]  *     并发协程最多 20 个
+
+2019/05/24 05:46:32 [I]  *     默认随机停顿 150~600 毫秒
+
+2019/05/24 05:46:32 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2019/05/24 05:46:32 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:46:32 [D]  *     Start: http://www.chinanews.com/scroll-news/news1.html
+2019/05/24 05:46:32 [I]  *     Success: http://www.chinanews.com/scroll-news/news1.html
+
+2019/05/24 05:46:32 [D]  *     Start: http://www.chinanews.com/scroll-news/news2.html
+2019/05/24 05:46:33 [I]  *     Success: http://www.chinanews.com/scroll-news/news2.html
+
+2019/05/24 05:46:33 [D]  *     Start: http://www.chinanews.com/scroll-news/news3.html
+2019/05/24 05:46:33 [I]  *     Success: http://www.chinanews.com/scroll-news/news3.html
+
+2019/05/24 05:46:33 [D]  *     Start: http://www.chinanews.com/scroll-news/news4.html
+2019/05/24 05:46:33 [I]  *     Success: http://www.chinanews.com/scroll-news/news4.html
+
+2019/05/24 05:46:33 [D]  *     Start: http://www.chinanews.com/scroll-news/news5.html
+2019/05/24 05:46:34 [I]  *     Success: http://www.chinanews.com/scroll-news/news5.html
+
+2019/05/24 05:46:34 [D]  *     Start: http://www.chinanews.com/scroll-news/news6.html
+2019/05/24 05:46:34 [I]  *     Success: http://www.chinanews.com/scroll-news/news6.html
+
+2019/05/24 05:46:34 [D]  *     Start: http://www.chinanews.com/scroll-news/news7.html
+2019/05/24 05:46:35 [I]  *     Success: http://www.chinanews.com/scroll-news/news7.html
+
+2019/05/24 05:46:35 [D]  *     Start: http://www.chinanews.com/scroll-news/news8.html
+2019/05/24 05:46:35 [I]  *     Success: http://www.chinanews.com/scroll-news/news8.html
+
+2019/05/24 05:46:35 [D]  *     Start: http://www.chinanews.com/scroll-news/news9.html
+2019/05/24 05:46:35 [I]  *     Success: http://www.chinanews.com/scroll-news/news9.html
+
+2019/05/24 05:46:35 [D]  *     Start: http://www.chinanews.com/scroll-news/news10.html
+2019/05/24 05:46:36 [I]  *     Success: http://www.chinanews.com/scroll-news/news10.html
+
+2019/05/24 05:46:36 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845603.shtml
+2019/05/24 05:46:36 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845603.shtml
+
+2019/05/24 05:46:36 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845602.shtml
+2019/05/24 05:46:36 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845602.shtml
+
+2019/05/24 05:46:36 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845596.shtml
+2019/05/24 05:46:37 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845601.shtml
+2019/05/24 05:46:37 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845601.shtml
+
+2019/05/24 05:46:38 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816955.shtml
+2019/05/24 05:46:38 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816955.shtml
+
+2019/05/24 05:46:38 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845596.shtml
+
+2019/05/24 05:46:38 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816954.shtml
+2019/05/24 05:46:38 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816954.shtml
+
+2019/05/24 05:46:38 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/884001.shtml
+2019/05/24 05:46:39 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/884001.shtml
+
+2019/05/24 05:46:39 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845592.shtml
+2019/05/24 05:46:39 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845592.shtml
+
+2019/05/24 05:46:39 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845590.shtml
+2019/05/24 05:46:39 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845590.shtml
+
+2019/05/24 05:46:39 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845591.shtml
+2019/05/24 05:46:40 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845591.shtml
+
+2019/05/24 05:46:40 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/884006.shtml
+2019/05/24 05:46:40 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845579.shtml
+2019/05/24 05:46:40 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/884006.shtml
+
+2019/05/24 05:46:40 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845579.shtml
+
+2019/05/24 05:46:40 [D]  *     Start: http://www.chinanews.com/ty/2019/05-23/8845584.shtml
+2019/05/24 05:46:41 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845588.shtml
+2019/05/24 05:46:41 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845588.shtml
+
+2019/05/24 05:46:41 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845587.shtml
+2019/05/24 05:46:41 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845587.shtml
+
+2019/05/24 05:46:41 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845586.shtml
+2019/05/24 05:46:41 [I]  *     Success: http://www.chinanews.com/ty/2019/05-23/8845584.shtml
+
+2019/05/24 05:46:41 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845586.shtml
+
+2019/05/24 05:46:42 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845585.shtml
+2019/05/24 05:46:42 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845585.shtml
+
+2019/05/24 05:46:42 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816953.shtml
+2019/05/24 05:46:42 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816953.shtml
+
+2019/05/24 05:46:42 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845582.shtml
+2019/05/24 05:46:43 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845582.shtml
+
+2019/05/24 05:46:43 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845575.shtml
+2019/05/24 05:46:43 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845575.shtml
+
+2019/05/24 05:46:43 [D]  *     Start: http://www.chinanews.com/tw/2019/05-23/8845574.shtml
+2019/05/24 05:46:43 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845573.shtml
+2019/05/24 05:46:44 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845573.shtml
+
+2019/05/24 05:46:44 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845571.shtml
+2019/05/24 05:46:44 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845571.shtml
+
+2019/05/24 05:46:44 [I]  *     Success: http://www.chinanews.com/tw/2019/05-23/8845574.shtml
+
+2019/05/24 05:46:44 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883971.shtml
+2019/05/24 05:46:44 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845580.shtml
+2019/05/24 05:46:44 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883971.shtml
+
+2019/05/24 05:46:45 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816952.shtml
+2019/05/24 05:46:45 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816952.shtml
+
+2019/05/24 05:46:45 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845577.shtml
+2019/05/24 05:46:45 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816951.shtml
+2019/05/24 05:46:46 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816951.shtml
+
+2019/05/24 05:46:46 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845572.shtml
+2019/05/24 05:46:46 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845572.shtml
+
+2019/05/24 05:46:46 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845577.shtml
+
+2019/05/24 05:46:46 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845554.shtml
+2019/05/24 05:46:47 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845580.shtml
+
+2019/05/24 05:46:47 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845554.shtml
+
+2019/05/24 05:46:47 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845569.shtml
+2019/05/24 05:46:47 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845569.shtml
+
+2019/05/24 05:46:47 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845570.shtml
+2019/05/24 05:46:48 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845570.shtml
+
+2019/05/24 05:46:48 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845568.shtml
+2019/05/24 05:46:48 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845568.shtml
+
+2019/05/24 05:46:49 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845567.shtml
+2019/05/24 05:46:49 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845567.shtml
+
+2019/05/24 05:46:49 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845566.shtml
+2019/05/24 05:46:50 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845566.shtml
+
+2019/05/24 05:46:50 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845565.shtml
+2019/05/24 05:46:50 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845565.shtml
+
+2019/05/24 05:46:50 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845564.shtml
+2019/05/24 05:46:50 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845564.shtml
+
+2019/05/24 05:46:50 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883993.shtml
+2019/05/24 05:46:51 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883993.shtml
+
+2019/05/24 05:46:51 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845561.shtml
+2019/05/24 05:46:51 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845557.shtml
+2019/05/24 05:46:51 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845557.shtml
+
+2019/05/24 05:46:51 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816950.shtml
+2019/05/24 05:46:52 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816950.shtml
+
+2019/05/24 05:46:52 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845555.shtml
+2019/05/24 05:46:52 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845555.shtml
+
+2019/05/24 05:46:52 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845556.shtml
+2019/05/24 05:46:52 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845561.shtml
+
+2019/05/24 05:46:53 [D]  *     Start: http://www.chinanews.com/jk/2019/05-23/8845551.shtml
+2019/05/24 05:46:53 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845550.shtml
+2019/05/24 05:46:53 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845556.shtml
+
+2019/05/24 05:46:53 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845548.shtml
+2019/05/24 05:46:53 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845548.shtml
+
+2019/05/24 05:46:53 [I]  *     Success: http://www.chinanews.com/jk/2019/05-23/8845551.shtml
+
+2019/05/24 05:46:54 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845547.shtml
+2019/05/24 05:46:54 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845547.shtml
+
+2019/05/24 05:46:54 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845558.shtml
+2019/05/24 05:46:54 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845550.shtml
+
+2019/05/24 05:46:54 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845558.shtml
+
+2019/05/24 05:46:55 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845553.shtml
+2019/05/24 05:46:55 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845553.shtml
+
+2019/05/24 05:46:55 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845546.shtml
+2019/05/24 05:46:55 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845546.shtml
+
+2019/05/24 05:46:55 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845549.shtml
+2019/05/24 05:46:55 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845549.shtml
+
+2019/05/24 05:46:56 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883997.shtml
+2019/05/24 05:46:56 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883997.shtml
+
+2019/05/24 05:46:56 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845545.shtml
+2019/05/24 05:46:56 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845545.shtml
+
+2019/05/24 05:46:56 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845544.shtml
+2019/05/24 05:46:56 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845544.shtml
+
+2019/05/24 05:46:57 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845543.shtml
+2019/05/24 05:46:57 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845543.shtml
+
+2019/05/24 05:46:57 [D]  *     Start: http://www.chinanews.com/shipin/2019/05-23/news816949.shtml
+2019/05/24 05:46:57 [I]  *     Success: http://www.chinanews.com/shipin/2019/05-23/news816949.shtml
+
+2019/05/24 05:46:57 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845541.shtml
+2019/05/24 05:46:57 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845540.shtml
+2019/05/24 05:46:57 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845541.shtml
+
+2019/05/24 05:46:57 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845540.shtml
+
+2019/05/24 05:46:58 [D]  *     Start: http://www.chinanews.com/shipin/2019/05-23/news816948.shtml
+2019/05/24 05:46:58 [I]  *     Success: http://www.chinanews.com/shipin/2019/05-23/news816948.shtml
+
+2019/05/24 05:46:58 [D]  *     Start: http://www.chinanews.com/shipin/2019/05-23/news816947.shtml
+2019/05/24 05:46:58 [I]  *     Success: http://www.chinanews.com/shipin/2019/05-23/news816947.shtml
+
+2019/05/24 05:46:58 [D]  *     Start: http://www.chinanews.com/shipin/2019/05-23/news816946.shtml
+2019/05/24 05:46:58 [I]  *     Success: http://www.chinanews.com/shipin/2019/05-23/news816946.shtml
+
+2019/05/24 05:46:59 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845534.shtml
+2019/05/24 05:46:59 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845534.shtml
+
+2019/05/24 05:46:59 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883989.shtml
+2019/05/24 05:47:00 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845535.shtml
+2019/05/24 05:47:00 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845535.shtml
+
+2019/05/24 05:47:00 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816945.shtml
+2019/05/24 05:47:00 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816945.shtml
+
+2019/05/24 05:47:00 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845532.shtml
+2019/05/24 05:47:00 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845532.shtml
+
+2019/05/24 05:47:01 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883989.shtml
+
+2019/05/24 05:47:01 [D]  *     Start: http://www.chinanews.com/ga/shipin/cns/2019/05-23/news816944.shtml
+2019/05/24 05:47:01 [I]  *     Success: http://www.chinanews.com/ga/shipin/cns/2019/05-23/news816944.shtml
+
+2019/05/24 05:47:01 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845516.shtml
+2019/05/24 05:47:01 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845516.shtml
+
+2019/05/24 05:47:02 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883986.shtml
+2019/05/24 05:47:02 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883986.shtml
+
+2019/05/24 05:47:02 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845529.shtml
+2019/05/24 05:47:02 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845529.shtml
+
+2019/05/24 05:47:03 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845528.shtml
+2019/05/24 05:47:03 [D]  *     Start: http://www.chinanews.com/ty/2019/05-23/8845523.shtml
+2019/05/24 05:47:03 [I]  *     Success: http://www.chinanews.com/ty/2019/05-23/8845523.shtml
+
+2019/05/24 05:47:03 [D]  *     Start: http://www.chinanews.com/jk/2019/05-23/8845522.shtml
+2019/05/24 05:47:04 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845521.shtml
+2019/05/24 05:47:04 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845528.shtml
+
+2019/05/24 05:47:04 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845521.shtml
+
+2019/05/24 05:47:04 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845517.shtml
+2019/05/24 05:47:04 [I]  *     Success: http://www.chinanews.com/jk/2019/05-23/8845522.shtml
+
+2019/05/24 05:47:04 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845515.shtml
+2019/05/24 05:47:04 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845517.shtml
+
+2019/05/24 05:47:05 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845515.shtml
+
+2019/05/24 05:47:05 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845514.shtml
+2019/05/24 05:47:05 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845514.shtml
+
+2019/05/24 05:47:05 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845527.shtml
+2019/05/24 05:47:05 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845527.shtml
+
+2019/05/24 05:47:06 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883983.shtml
+2019/05/24 05:47:06 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883983.shtml
+
+2019/05/24 05:47:06 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845525.shtml
+2019/05/24 05:47:06 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845525.shtml
+
+2019/05/24 05:47:07 [D]  *     Start: http://www.chinanews.com/auto/2019/05-23/8845509.shtml
+2019/05/24 05:47:07 [I]  *     Success: http://www.chinanews.com/auto/2019/05-23/8845509.shtml
+
+2019/05/24 05:47:07 [D]  *     Start: http://www.chinanews.com/gj/shipin/2019/05-23/news816943.shtml
+2019/05/24 05:47:07 [I]  *     Success: http://www.chinanews.com/gj/shipin/2019/05-23/news816943.shtml
+
+2019/05/24 05:47:07 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845513.shtml
+2019/05/24 05:47:08 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845513.shtml
+
+2019/05/24 05:47:08 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845520.shtml
+2019/05/24 05:47:08 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845520.shtml
+
+2019/05/24 05:47:08 [D]  *     Start: http://www.chinanews.com/fortune/2019/05-23/8845518.shtml
+2019/05/24 05:47:08 [I]  *     Success: http://www.chinanews.com/fortune/2019/05-23/8845518.shtml
+
+2019/05/24 05:47:09 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845519.shtml
+2019/05/24 05:47:09 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845519.shtml
+
+2019/05/24 05:47:09 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845512.shtml
+2019/05/24 05:47:09 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845512.shtml
+
+2019/05/24 05:47:10 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883976.shtml
+2019/05/24 05:47:10 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883976.shtml
+
+2019/05/24 05:47:10 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845510.shtml
+2019/05/24 05:47:10 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845510.shtml
+
+2019/05/24 05:47:11 [D]  *     Start: http://www.chinanews.com/business/2019/05-23/8845508.shtml
+2019/05/24 05:47:11 [I]  *     Success: http://www.chinanews.com/business/2019/05-23/8845508.shtml
+
+2019/05/24 05:47:11 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845507.shtml
+2019/05/24 05:47:11 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845507.shtml
+
+2019/05/24 05:47:11 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845505.shtml
+2019/05/24 05:47:12 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845506.shtml
+2019/05/24 05:47:12 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845506.shtml
+
+2019/05/24 05:47:12 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845499.shtml
+2019/05/24 05:47:12 [D]  *     Start: http://www.chinanews.com/yl/2019/05-23/8845504.shtml
+2019/05/24 05:47:12 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845499.shtml
+
+2019/05/24 05:47:12 [I]  *     Success: http://www.chinanews.com/yl/2019/05-23/8845504.shtml
+
+2019/05/24 05:47:12 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845505.shtml
+
+2019/05/24 05:47:13 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845500.shtml
+2019/05/24 05:47:13 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845500.shtml
+
+2019/05/24 05:47:13 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845502.shtml
+2019/05/24 05:47:13 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845502.shtml
+
+2019/05/24 05:47:14 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845501.shtml
+2019/05/24 05:47:14 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845501.shtml
+
+2019/05/24 05:47:14 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845503.shtml
+2019/05/24 05:47:14 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845503.shtml
+
+2019/05/24 05:47:14 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845490.shtml
+2019/05/24 05:47:14 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845490.shtml
+
+2019/05/24 05:47:14 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845498.shtml
+2019/05/24 05:47:15 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845497.shtml
+2019/05/24 05:47:15 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845497.shtml
+
+2019/05/24 05:47:15 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845496.shtml
+2019/05/24 05:47:16 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845496.shtml
+
+2019/05/24 05:47:16 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845466.shtml
+2019/05/24 05:47:16 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845466.shtml
+
+2019/05/24 05:47:16 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845498.shtml
+
+2019/05/24 05:47:16 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845495.shtml
+2019/05/24 05:47:16 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845495.shtml
+
+2019/05/24 05:47:16 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845494.shtml
+2019/05/24 05:47:17 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845489.shtml
+2019/05/24 05:47:17 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845489.shtml
+
+2019/05/24 05:47:17 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845488.shtml
+2019/05/24 05:47:17 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845488.shtml
+
+2019/05/24 05:47:17 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845494.shtml
+
+2019/05/24 05:47:18 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845487.shtml
+2019/05/24 05:47:18 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845487.shtml
+
+2019/05/24 05:47:18 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845493.shtml
+2019/05/24 05:47:18 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845482.shtml
+2019/05/24 05:47:19 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845482.shtml
+
+2019/05/24 05:47:19 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845492.shtml
+2019/05/24 05:47:19 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845493.shtml
+
+2019/05/24 05:47:19 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845491.shtml
+2019/05/24 05:47:19 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845491.shtml
+
+2019/05/24 05:47:20 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845485.shtml
+2019/05/24 05:47:20 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845485.shtml
+
+2019/05/24 05:47:20 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845492.shtml
+
+2019/05/24 05:47:20 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845484.shtml
+2019/05/24 05:47:21 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845484.shtml
+
+2019/05/24 05:47:21 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845483.shtml
+2019/05/24 05:47:21 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845464.shtml
+2019/05/24 05:47:21 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845483.shtml
+
+2019/05/24 05:47:21 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845464.shtml
+
+2019/05/24 05:47:21 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845461.shtml
+2019/05/24 05:47:22 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845460.shtml
+2019/05/24 05:47:22 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845460.shtml
+
+2019/05/24 05:47:22 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845469.shtml
+2019/05/24 05:47:22 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845469.shtml
+
+2019/05/24 05:47:22 [D]  *     Start: http://www.chinanews.com/ty/2019/05-23/8845459.shtml
+2019/05/24 05:47:22 [I]  *     Success: http://www.chinanews.com/ty/2019/05-23/8845459.shtml
+
+2019/05/24 05:47:22 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845486.shtml
+2019/05/24 05:47:23 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845486.shtml
+
+2019/05/24 05:47:23 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845473.shtml
+2019/05/24 05:47:23 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845461.shtml
+
+2019/05/24 05:47:23 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845473.shtml
+
+2019/05/24 05:47:23 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845481.shtml
+2019/05/24 05:47:23 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845481.shtml
+
+2019/05/24 05:47:23 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845479.shtml
+2019/05/24 05:47:24 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845479.shtml
+
+2019/05/24 05:47:24 [D]  *     Start: http://www.chinanews.com/tp/hd2011/2019/05-23/883965.shtml
+2019/05/24 05:47:24 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816942.shtml
+2019/05/24 05:47:24 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816942.shtml
+
+2019/05/24 05:47:25 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816941.shtml
+2019/05/24 05:47:25 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816941.shtml
+
+2019/05/24 05:47:25 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845476.shtml
+2019/05/24 05:47:25 [I]  *     Success: http://www.chinanews.com/tp/hd2011/2019/05-23/883965.shtml
+
+2019/05/24 05:47:25 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845476.shtml
+
+2019/05/24 05:47:25 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845456.shtml
+2019/05/24 05:47:26 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845456.shtml
+
+2019/05/24 05:47:26 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816940.shtml
+2019/05/24 05:47:26 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816940.shtml
+
+2019/05/24 05:47:26 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845475.shtml
+2019/05/24 05:47:26 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845475.shtml
+
+2019/05/24 05:47:27 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845458.shtml
+2019/05/24 05:47:27 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845458.shtml
+
+2019/05/24 05:47:27 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845472.shtml
+2019/05/24 05:47:27 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845472.shtml
+
+2019/05/24 05:47:27 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816939.shtml
+2019/05/24 05:47:28 [D]  *     Start: http://www.chinanews.com/tp/2019/05-23/8845455.shtml
+2019/05/24 05:47:28 [I]  *     Success: http://www.chinanews.com/tp/2019/05-23/8845455.shtml
+
+2019/05/24 05:47:28 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845445.shtml
+2019/05/24 05:47:28 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816939.shtml
+
+2019/05/24 05:47:28 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845445.shtml
+
+2019/05/24 05:47:29 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816938.shtml
+2019/05/24 05:47:29 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816938.shtml
+
+2019/05/24 05:47:29 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845431.shtml
+2019/05/24 05:47:29 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845468.shtml
+2019/05/24 05:47:29 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845431.shtml
+
+2019/05/24 05:47:29 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845457.shtml
+2019/05/24 05:47:29 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845457.shtml
+
+2019/05/24 05:47:30 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845467.shtml
+2019/05/24 05:47:30 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845467.shtml
+
+2019/05/24 05:47:30 [D]  *     Start: http://www.chinanews.com/tw/2019/05-23/8845426.shtml
+2019/05/24 05:47:30 [I]  *     Success: http://www.chinanews.com/tw/2019/05-23/8845426.shtml
+
+2019/05/24 05:47:30 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845465.shtml
+2019/05/24 05:47:31 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845465.shtml
+
+2019/05/24 05:47:31 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845468.shtml
+
+2019/05/24 05:47:31 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845430.shtml
+2019/05/24 05:47:31 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845430.shtml
+
+2019/05/24 05:47:31 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845424.shtml
+2019/05/24 05:47:31 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845424.shtml
+
+2019/05/24 05:47:32 [D]  *     Start: http://www.chinanews.com/shipin/cns/2019/05-23/news816937.shtml
+2019/05/24 05:47:32 [I]  *     Success: http://www.chinanews.com/shipin/cns/2019/05-23/news816937.shtml
+
+2019/05/24 05:47:32 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845419.shtml
+2019/05/24 05:47:32 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845419.shtml
+
+2019/05/24 05:47:32 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845427.shtml
+2019/05/24 05:47:32 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845427.shtml
+
+2019/05/24 05:47:32 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845425.shtml
+2019/05/24 05:47:33 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845425.shtml
+
+2019/05/24 05:47:33 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845453.shtml
+2019/05/24 05:47:33 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845453.shtml
+
+2019/05/24 05:47:33 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845423.shtml
+2019/05/24 05:47:33 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845423.shtml
+
+2019/05/24 05:47:34 [D]  *     Start: http://www.chinanews.com/jk/2019/05-23/8845422.shtml
+2019/05/24 05:47:34 [I]  *     Success: http://www.chinanews.com/jk/2019/05-23/8845422.shtml
+
+2019/05/24 05:47:34 [D]  *     Start: http://www.chinanews.com/ty/2019/05-23/8845421.shtml
+2019/05/24 05:47:35 [I]  *     Success: http://www.chinanews.com/ty/2019/05-23/8845421.shtml
+
+2019/05/24 05:47:35 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845417.shtml
+2019/05/24 05:47:35 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845417.shtml
+
+2019/05/24 05:47:35 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845452.shtml
+2019/05/24 05:47:36 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845452.shtml
+
+2019/05/24 05:47:36 [D]  *     Start: http://www.chinanews.com/cul/shipin/cns/2019/05-23/news816936.shtml
+2019/05/24 05:47:36 [I]  *     Success: http://www.chinanews.com/cul/shipin/cns/2019/05-23/news816936.shtml
+
+2019/05/24 05:47:36 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845450.shtml
+2019/05/24 05:47:36 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845450.shtml
+
+2019/05/24 05:47:37 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845449.shtml
+2019/05/24 05:47:37 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845449.shtml
+
+2019/05/24 05:47:37 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845448.shtml
+2019/05/24 05:47:37 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845448.shtml
+
+2019/05/24 05:47:38 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845420.shtml
+2019/05/24 05:47:38 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845414.shtml
+2019/05/24 05:47:39 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845420.shtml
+
+2019/05/24 05:47:39 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845414.shtml
+
+2019/05/24 05:47:39 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845447.shtml
+2019/05/24 05:47:39 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845447.shtml
+
+2019/05/24 05:47:39 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845413.shtml
+2019/05/24 05:47:39 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845413.shtml
+
+2019/05/24 05:47:40 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845446.shtml
+2019/05/24 05:47:40 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845446.shtml
+
+2019/05/24 05:47:40 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845412.shtml
+2019/05/24 05:47:40 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845412.shtml
+
+2019/05/24 05:47:40 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845411.shtml
+2019/05/24 05:47:41 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845444.shtml
+2019/05/24 05:47:41 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845411.shtml
+
+2019/05/24 05:47:41 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845444.shtml
+
+2019/05/24 05:47:41 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845407.shtml
+2019/05/24 05:47:41 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845407.shtml
+
+2019/05/24 05:47:41 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845443.shtml
+2019/05/24 05:47:42 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845443.shtml
+
+2019/05/24 05:47:42 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845405.shtml
+2019/05/24 05:47:42 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845405.shtml
+
+2019/05/24 05:47:42 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816935.shtml
+2019/05/24 05:47:42 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns-d/2019/05-23/news816935.shtml
+
+2019/05/24 05:47:42 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845403.shtml
+2019/05/24 05:47:43 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845403.shtml
+
+2019/05/24 05:47:43 [D]  *     Start: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816934.shtml
+2019/05/24 05:47:43 [I]  *     Success: http://www.chinanews.com/sh/shipin/cns/2019/05-23/news816934.shtml
+
+2019/05/24 05:47:43 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845440.shtml
+2019/05/24 05:47:44 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845439.shtml
+2019/05/24 05:47:44 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845440.shtml
+
+2019/05/24 05:47:44 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845439.shtml
+
+2019/05/24 05:47:44 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845404.shtml
+2019/05/24 05:47:44 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845438.shtml
+2019/05/24 05:47:44 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845438.shtml
+
+2019/05/24 05:47:44 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845437.shtml
+2019/05/24 05:47:45 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845436.shtml
+2019/05/24 05:47:45 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845437.shtml
+
+2019/05/24 05:47:45 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845436.shtml
+
+2019/05/24 05:47:45 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845402.shtml
+2019/05/24 05:47:45 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845402.shtml
+
+2019/05/24 05:47:45 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845404.shtml
+
+2019/05/24 05:47:45 [D]  *     Start: http://www.chinanews.com/cul/2019/05-23/8845435.shtml
+2019/05/24 05:47:46 [I]  *     Success: http://www.chinanews.com/cul/2019/05-23/8845435.shtml
+
+2019/05/24 05:47:46 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845434.shtml
+2019/05/24 05:47:47 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845433.shtml
+2019/05/24 05:47:47 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845433.shtml
+
+2019/05/24 05:47:47 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845406.shtml
+2019/05/24 05:47:47 [D]  *     Start: http://www.chinanews.com/gn/2019/05-23/8845429.shtml
+2019/05/24 05:47:47 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845434.shtml
+
+2019/05/24 05:47:47 [I]  *     Success: http://www.chinanews.com/gn/2019/05-23/8845429.shtml
+
+2019/05/24 05:47:48 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845432.shtml
+2019/05/24 05:47:48 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845432.shtml
+
+2019/05/24 05:47:48 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845401.shtml
+2019/05/24 05:47:48 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845428.shtml
+2019/05/24 05:47:48 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845428.shtml
+
+2019/05/24 05:47:49 [D]  *     Start: http://www.chinanews.com/cj/2019/05-23/8845400.shtml
+2019/05/24 05:47:49 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845406.shtml
+
+2019/05/24 05:47:49 [I]  *     Success: http://www.chinanews.com/cj/2019/05-23/8845400.shtml
+
+2019/05/24 05:47:49 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845401.shtml
+
+2019/05/24 05:47:49 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845399.shtml
+2019/05/24 05:47:49 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845399.shtml
+
+2019/05/24 05:47:50 [D]  *     Start: http://www.chinanews.com/gj/2019/05-23/8845410.shtml
+2019/05/24 05:47:50 [I]  *     Success: http://www.chinanews.com/gj/2019/05-23/8845410.shtml
+
+2019/05/24 05:47:50 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845398.shtml
+2019/05/24 05:47:50 [I]  *     Success: http://www.chinanews.com/sh/2019/05-23/8845398.shtml
+
+2019/05/24 05:47:50 [D]  *     Start: http://www.chinanews.com/tw/2019/05-23/8845385.shtml
+2019/05/24 05:47:50 [D]  *     Start: http://www.chinanews.com/sh/2019/05-23/8845397.shtml
+2019/05/24 05:47:51 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845376.shtml
+2019/05/24 05:47:51 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845376.shtml
+
+2019/05/24 05:47:51 [D]  *     Start: http://www.chinanews.com/ga/2019/05-23/8845272.shtml
+2019/05/24 05:47:51 [I]  *     Success: http://www.chinanews.com/ga/2019/05-23/8845272.shtml
+
+2019/05/24 05:47:51 [I]  *     Success: http://www.chinanews.com/tw/2019/05-23/8845385.shtml
+
+2019/05/24 05:47:51 [I]  * 
+2019/05/24 05:47:51 [P]  *     [数据输出：中国新闻网 | KEYIN： | 批次：1]   数据 196 条！
+
+2019/05/24 05:47:51 [I]  *     [添加成功记录]: 206 条
+
+2019/05/24 05:47:51 [I]  * 
+2019/05/24 05:47:51 [P]  *     [任务小计：中国新闻网 | KEYIN：]   共采集数据 196 条，用时 1m19.376586561s！
+
+2019/05/24 05:47:51 [I]  * 
+2019/05/24 05:47:51 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:47:51 [I]  * 
+2019/05/24 05:47:51 [P]  *                            —— 任务中途取消：合计采集【数据 196 条】， 实爬【成功 206 URL + 失败 0 URL = 合计 206 URL】，耗时【1m19.376779633s】 ——
+2019/05/24 05:47:51 [I]  * 
+2019/05/24 05:47:51 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:47:52 [I]  *     不使用代理IP
+
+2019/05/24 05:47:52 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2019/05/24 05:47:52 [I]  *     采集引擎池容量为 1
+
+2019/05/24 05:47:52 [I]  *     并发协程最多 20 个
+
+2019/05/24 05:47:52 [I]  *     默认随机停顿 150~600 毫秒
+
+2019/05/24 05:47:52 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2019/05/24 05:47:52 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:47:52 [I]  *     [读取成功记录]: 206 条
+
+2019/05/24 05:47:52 [P]  *     [任务小计：中国新闻网 | KEYIN：]   无采集结果，用时 1.276179ms！
+
+2019/05/24 05:47:52 [I]  * 
+2019/05/24 05:47:52 [I]  *********************************************************************************************************************************** 
+2019/05/24 05:47:52 [I]  * 
+2019/05/24 05:47:52 [P]  *                            —— 本次无采集结果，实爬【成功 0 URL + 失败 0 URL = 合计 0 URL】，耗时【1.317232ms】 ——
+2019/05/24 05:47:52 [I]  * 
+2019/05/24 05:47:52 [I]  *********************************************************************************************************************************** 
